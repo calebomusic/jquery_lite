@@ -1,3 +1,7 @@
+#Bundle
+./lib/jquery_lite.js
+./lib/jquery_lite.js.map
+
 # Logs
 logs
 *.log
